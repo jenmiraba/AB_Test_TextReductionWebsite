@@ -4,8 +4,14 @@ This project aims to determine whether reducing the amount of text on a company'
 
 ![App Screenshot](https://i.imgur.com/avkviYm.png)
 
-## 💾 Data
+## 💾 Data & Tools
 Please note that the data presented in this readme file is purely fictional and used for illustrative purposes only. The purpose of this readme file is to demonstrate the general process and steps involved in running an A/B test. The results and conclusions drawn from this hypothetical A/B test are not intended to be taken as a representation of real-world outcomes.
+
+For conducting the analysis of results, **Python** was used along with several popular libraries such as: <br>
+✅ NumPy = for numerical computing. <br>
+✅ Pandas =  data manipulation. <br>
+✅ Matplotlib = data visualization.<br>
+✅ Scipy = to perform statistical tests on the data. <br>
 
 ## 🔎 Experiment Design
 ### Variants
